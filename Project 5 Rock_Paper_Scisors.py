@@ -1,5 +1,5 @@
 #German Krugkov
-# 100 days of coding project 4
+# 100 days of coding project 5
 # Rock Paper Scisors
 
 import random
